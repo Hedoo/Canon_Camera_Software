@@ -1,0 +1,5 @@
+Please copy the 
+2 Dll files in 
+SYSwow64 folder if
+the windows is 64 bit
+if it is 32 bit then copy it into system32 folder in windows THanks.
