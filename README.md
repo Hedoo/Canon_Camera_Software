@@ -1,2 +1,2 @@
 # Canon_Camera_Software
-VB.NET
+its made in c#, if needed please request.
